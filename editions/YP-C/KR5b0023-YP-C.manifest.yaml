@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0023/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5b0023/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞玄靈寶出家因緣經
+  date: '2015-08-28 23:47:38.415559'
+  source:
+    repository: kanripo
+    path: KR5b0023
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0023_000-YP-C.yaml, hash: 'sha256:2a300a445385d74298bacbf957b9af43025772028772486f56ed7d1fb0da9362'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0023_000-YP-C.markers.yaml, hash: 'sha256:9cec74763c5bed0325501aa246f46b8deb1b7efb0c6365d59aa2581e63844de3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0023_YP-C_04fangji-06-0060a
+    span:
+    - body
+    - 0
+    - 2387
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:6b190243a9d6def7cd9481e968692daf987444c2546a152279c5204a1b2f65aa
