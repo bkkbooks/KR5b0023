@@ -23,18 +23,18 @@ entity_encoding:
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 assets:
   parts:
-  - {seq: 0, filename: KR5b0023_000-YP-C.yaml, hash: 'sha256:2a300a445385d74298bacbf957b9af43025772028772486f56ed7d1fb0da9362'}
+  - {seq: 0, filename: KR5b0023_000-YP-C.yaml, hash: 'sha256:5c2983cf99a65b6d5d672c05b9f802ca361365855ead3c10e12f1a26c7e12973'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5b0023_000-YP-C.markers.yaml, hash: 'sha256:9cec74763c5bed0325501aa246f46b8deb1b7efb0c6365d59aa2581e63844de3'}
+  - {seq: 0, role: markers, filename: assets/KR5b0023_000-YP-C.markers.yaml, hash: 'sha256:3752b31a2038a76a16ce5509b9f7a04abde3b111dcb35464e9d95bf67f17e29d'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR5b0023_YP-C_04fangji-06-0060a
     span:
     - body
-    - 0
-    - 2387
+    - 3789
+    - 6176
   label: juan 000
   type: section
   level: 1
-hash: sha256:6b190243a9d6def7cd9481e968692daf987444c2546a152279c5204a1b2f65aa
+hash: sha256:624cc9a10e0bc2eb526f6deb1389d9a1ff5cf77270d63ffc07f8589995b4af44
